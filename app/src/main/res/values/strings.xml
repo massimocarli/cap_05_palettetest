@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">PaletteTest</string>
+
+  <string name="extract_palette">Extract Palette</string>
+
+  <string name="pick_image_error">Error picking image</string>
+  <string name="select_image_error">Select an image before</string>
+</resources>
